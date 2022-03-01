@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "fir-rtc-69390",
+    "test_env": "fir-rtc-69390"
+  },
+  "targets": {}
+}
