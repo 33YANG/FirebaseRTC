@@ -26,5 +26,5 @@ firebase deploy
 
 [https://fir-rtc-69390.web.app/](https://fir-rtc-69390.web.app/)
 
-![preview img]()
+![preview img](https://raw.githubusercontent.com/33YANG/FirebaseRTC/25894a944d792f4c0d34bc402c454e65a16fcf88/preview.png)
 
